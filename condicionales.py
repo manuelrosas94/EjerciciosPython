@@ -6,6 +6,8 @@ calificacion = int(calificacion)
 # Pregunta si la calificacion es menor a 700
 if calificacion < 700 :
     print("No pasaste") # Si es menor a 700, muestra el mensaje
+elif calificacion == 700 :
+    print("Pasaste justo")
 elif calificacion > 1000 :
     print("La calificacion final no es mas de 1000")
 else : # Si no se cumple e; if anterior, pasa a esta linea
