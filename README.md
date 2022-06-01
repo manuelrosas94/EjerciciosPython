@@ -1,7 +1,8 @@
 # Curso basico de python
 
 En este curso aprenderas a programar en Python
-![Logo de Python](imagenes\Logo-Python.png)
+[![Logo de Python](https://github.com/manuelrosas94/EjerciciosPython/blob/main/imagenes/Logo-Python.png)
+
 
 **Requisitos**
 - Python 3.6 o superior
